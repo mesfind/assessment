@@ -592,37 +592,17 @@ Respondents were asked to reflect on ways in which completing a Carpentry worksh
 The following plot was created using the [Likert](http://jason.bryer.org/likert/) package, and presents an analysis of learner responses to the statements above. We see an overwhelmingly positive indication that respondents left their workshop feeling motivated to seek more knowledge and having gained confidence in working with data. Additionally, more than 80% of respondents improved their coding practices, made their analyses reproducible, improved their research productivity, and believe the skills they learned helped them advance their career. Forty percent of our respondents have received professional recognition as a result of using the tools they learned in a Carpentry workshop.
 
 ```{r echo=FALSE}
-# Jonah's fix to include the correct levels. Variable was renamed to 'levels' #because 'order' is the name of a function in R.
-
 cols_with_Agree <- map_lgl(data, ~`%in%`("Agree", .x))
 data_agree <-  data[ , cols_with_Agree]
 
 levels = c("Strongly disagree", "Disagree", "Neutral", "Agree", "Strongly agree")
 
-# Beth's tip to both order the factors based on levels and unify the factors
- factorfunction <- function(mydata, factlevel){
-  factor(mydata, 
-         levels=factlevel, 
-         ordered = TRUE)
-    fct_unify(mydata, 
-              levels=factlevel)}
-# End tip 
- 
 data_agree_likert <- likert(data.frame(lapply(data_agree, factor, levels, ordered=TRUE)))
-# Elizabeth's tip on factors
- for(i in seq_along(data_agree)) {
-                data_agree[[i]] <- factor(data_agree[[i]], levels=order)}
 
-#print(levels(data_agree))
- 
 title <- "Workshops are Welcoming & Useful"
- theme_update(plot.title = element_text(hjust = 0.5))
-plot(data_agree_likert) + ggtitle(title) 
+theme_update(plot.title = element_text(hjust = 0.5))
 
-#print(class(data_agree))
- data_agree <- map_if(data_agree,
-                     is.character,
-                     as.factor)
+plot(data_agree_likert)
 ```
 
 ```{r include=FALSE}  
