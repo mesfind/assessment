@@ -10,4 +10,5 @@ This folder contains data and analyses for the Carpentries Long-Term Assessment 
 * [2018-01 Report](https://carpentries.github.io/assessment/long-term-survey/2018-January/2018_January_long_term_report.html)
 
 
+ERIN IS DEMOING SOMETHING FOR KARI
 
