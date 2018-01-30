@@ -31,3 +31,7 @@ This repository contains projects lead by Kari L. Jordan, Data Carpentry's Deput
 + Data Carpentry post-workshop survey [summary plots](https://carpentries.github.io/assessment/data-carpentry/postworkshop/report.html).
  
 + Data Carpentry Archived pre/post [summary plots](https://carpentries.github.io/assessment/data-carpentry/pre-and-post/archived-survey-analysis/archived_survey_report.html).
+
+
+ERIN IS DEMOING SOMETHING FOR KARI
+
