@@ -1,4 +1,4 @@
-slug,tag_name,start,attendance,host_name,country
+slug,tag_name,start_date,attendance,host_name,country
 2012-01-18-stsci,SWC,2012-01-18,14,Space Telescope Science Institute,US
 2012-02-20-itcp,SWC,2012-02-20,50,International Centre for Theoretical Physics,IT
 2012-02-23-toronto,SWC,2012-02-23,28,University of Toronto,CA
@@ -808,7 +808,6 @@ slug,tag_name,start,attendance,host_name,country
 2016-07-26-okstate,SWC,2016-07-26,4,Oklahoma State University,US
 2016-07-28-colorado-state,SWC,2016-07-28,20,Colorado State University,US
 2016-08-01-codata-rda-trieste,SWC,2016-08-01,68,Abdus Salam International Centre for Theoretical Physics,IT
-2016-08-01-ttt-oklahoma,TTT,2016-08-01,,University of Oklahoma,
 2016-08-01-ufpr,SWC,2016-08-01,14,Universidade Federal do Paraná,BR
 2016-08-02-dsiti,"SWC,unresponsive",2016-08-02,0,"Department of Science, Information Technology and Innovation",AU
 2016-08-03-frb_washingtondc,DC,2016-08-02,16,Federal Reserve Board,US
@@ -1342,6 +1341,7 @@ slug,tag_name,start,attendance,host_name,country
 2017-12-14-UCL_software_carpentry,SWC,2017-12-14,,University College London,GB
 2017-12-14-mcmaster,DC,2017-12-14,27,McMaster University,CA
 2017-12-14-ttt-uiuc,TTT,2017-12-14,10,Software Carpentry,US
+2017-12-14-ucr,SWC,2017-12-14,9,"University of California, Riverside",US
 2017-12-18-PNNL,"SWC,unresponsive",2017-12-18,14,Pacific Northwest National Lab ,US
 2017-12-18-grand-valley,DC,2017-12-18,19,Grand Valley State University,US
 2017-12-18-knoxville,SWC,2017-12-18,31,University of Tennessee Knoxville,US
@@ -1411,7 +1411,7 @@ slug,tag_name,start,attendance,host_name,country
 2018-02-24-nyas-R,SWC,2018-02-24,90,New York Academy of Sciences,US
 2018-02-26-Leicester,SWC,2018-02-26,,University of Leicester,GB
 2018-02-26-UMich,SWC,2018-02-26,28,University of Michigan,US
-2018-02-26-ttt-csiro,TTT,2018-02-26,1,Software Carpentry,
+2018-02-26-ttt-csiro,TTT,2018-02-26,4,Software Carpentry,AU
 2018-02-26-ttt-stanford,TTT,2018-02-26,12,Stanford University,US
 2018-02-26-umich-shapiro,SWC,2018-02-26,16,University of Michigan,US
 2018-02-28-ttt-online,"TTT,online",2018-02-28,16,Software Carpentry,W3
@@ -1451,7 +1451,7 @@ slug,tag_name,start,attendance,host_name,country
 2018-03-20-genentech,DC,2018-03-20,37,Genentech,US
 2018-03-20-gpn,SWC,2018-03-20,,Great Plains Network,US
 2018-03-20-ttt-online,"TTT,online",2018-03-20,11,Software Carpentry,W3
-2018-03-22-csumb,SWC,2018-03-22,,California State University Monterey Bay,
+2018-03-22-csumb,"SWC,unresponsive",2018-03-22,,California State University Monterey Bay,US
 2018-03-22-nasa,SWC,2018-03-22,19,NASA (National Aeronautics and Space Administration),US
 2018-03-22-ttt-westbigdatahub,TTT,2018-03-22,15,West Big Data Hub,US
 2018-03-26-DC-HU,DC,2018-03-26,,Hawassa University,ET
