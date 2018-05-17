@@ -1273,7 +1273,7 @@ slug,tag_name,start_date,attendance,host_name,country
 2017-10-19-UniversityBotswana,SWC,2017-10-19,22,University of Botswana,BW
 2017-10-19-otago,SWC,2017-10-19,11,University of Otago,NZ
 2017-10-19-ucsf-ttt,"TTT,online",2017-10-19,5,Software Carpentry,W3
-2017-10-23-ufs,SWC,2017-10-23,19,University of the Free State,SO
+2017-10-23-ufs,SWC,2017-10-23,19,University of the Free State,ZA
 2017-10-24-ARC-16S,DC,2017-10-24,23,North-West University,ZA
 2017-10-24-ttt-online,"TTT,online",2017-10-24,19,Software Carpentry,W3
 2017-10-24-ttt-online-USA,"TTT,online",2017-10-24,23,Software Carpentry,W3
@@ -1407,8 +1407,8 @@ slug,tag_name,start_date,attendance,host_name,country
 2018-02-22-Potsdam-Berlin,SWC,2018-02-22,27,GFZ Potsdam,DE
 2018-02-22-milan,SWC,2018-02-22,21,University of Milano Bicocca,IT
 2018-02-24-UTA,SWC,2018-02-24,31,University of Texas Arlington,US
-2018-02-24-nyas-Python,SWC,2018-02-24,,New York Academy of Sciences,US
-2018-02-24-nyas-R,SWC,2018-02-24,90,New York Academy of Sciences,US
+2018-02-24-nyas-Python,SWC,2018-02-24,45,New York Academy of Sciences,US
+2018-02-24-nyas-R,SWC,2018-02-24,45,New York Academy of Sciences,US
 2018-02-26-Leicester,SWC,2018-02-26,,University of Leicester,GB
 2018-02-26-UMich,SWC,2018-02-26,28,University of Michigan,US
 2018-02-26-ttt-csiro,TTT,2018-02-26,4,Software Carpentry,AU
