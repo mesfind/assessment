@@ -969,7 +969,7 @@ slug,tag_name,start_date,attendance,host_name,country
 2017-01-09-oxford,SWC,2017-01-09,26,School of Anthropology and Museum Ethnography,GB
 2017-01-09-uw,SWC,2017-01-09,40,University of Washington,US
 2017-01-10-uw_madison,DC,2017-01-10,33,University of Wisconsin - Madison,US
-2017-01-11-ttt-online,"TTT,online",2017-01-11,23,Software Carpentry,CA
+2017-01-11-ttt-online,"TTT,online",2017-01-11,23,Software Carpentry,W3
 2017-01-12-bids,SWC,2017-01-12,30,Berkeley Institute for Data Science,US
 2017-01-12-ou,SWC,2017-01-12,8,University of Oklahoma,US
 2017-01-12-uconn,SWC,2017-01-12,36,University of Connecticut,US
@@ -978,7 +978,7 @@ slug,tag_name,start_date,attendance,host_name,country
 2017-01-17-UMich,SWC,2017-01-17,33,University of Michigan,US
 2017-01-18-CAM,DC,2017-01-18,37,University of Cambridge,GB
 2017-01-18-bristol,SWC,2017-01-18,23,University of Bristol,GB
-2017-01-19-ttt-ecp,"TTT,online",2017-01-19,20,DOE Exascale Computing Project,US
+2017-01-19-ttt-ecp,"TTT,online",2017-01-19,20,DOE Exascale Computing Project,W3
 2017-01-21-stanford,DC,2017-01-21,33,Stanford University,US
 2017-01-25-ttt-nz-otago,TTT,2017-01-25,28,New Zealand eScience Infrastructure,NZ
 2017-01-26-Langley,SWC,2017-01-26,13,NASA (National Aeronautics and Space Administration),US
@@ -1245,7 +1245,7 @@ slug,tag_name,start_date,attendance,host_name,country
 2017-09-27-LBNL,DC,2017-09-27,4,Lawrence Berkeley National Laboratory,US
 2017-09-28-NIH-CMN,SWC,2017-09-28,20,National Institutes of Health,US
 2017-09-28-curtin,TTT,2017-09-28,16,Curtin University,AU
-2017-09-28-nsbe,DC,2017-09-28,,National Society of Black Engineers,US
+2017-09-28-nsbe,DC,2017-09-28,16,National Society of Black Engineers,US
 2017-09-29-DC_USU,DC,2017-09-29,14,Utah State University,US
 2017-09-30-TDWG-Ottawa,DC,2017-09-30,18,University of Florida,CA
 2017-10-02-uw,SWC,2017-10-02,,University of Washington,US
@@ -1312,7 +1312,7 @@ slug,tag_name,start_date,attendance,host_name,country
 2017-11-11-UTA,SWC,2017-11-11,12,University of Texas Arlington,US
 2017-11-13-ethiopia,SWC,2017-12-12,27,Addis Ababa University,ET
 2017-11-14-ttt-online,"TTT,online",2017-11-14,12,Software Carpentry,W3
-2017-11-15-ttt-stanford,TTT,2017-11-15,14,Software Carpentry,US
+2017-11-15-ttt-stanford,TTT,2017-11-15,15,Software Carpentry,US
 2017-11-15-ualberta,DC,2017-11-15,10,University of Alberta,CA
 2017-11-17-tufts,SWC,2017-11-17,14,Tufts University,US
 2017-11-20-ou,SWC,2017-11-20,20,University of Oklahoma,US
@@ -1385,6 +1385,7 @@ slug,tag_name,start_date,attendance,host_name,country
 2018-01-31-WITS,DC,2018-01-31,,North-West University,ZA
 2018-01-xx-bath,SWC,2018-01-28,,University of Bath,GB
 2018-02-01-uiuc,SWC,2018-02-01,19,University of Illinois at Urbana-Champaign,US
+2018-02-03-swc-antarctica,SWC,2018-02-03,,McMurdo Station,AQ
 2018-02-04-amos-icshmo,DC,2018-02-04,40,Australian Meteorological and Oceanographic Society,AU
 2018-02-05-Oslo,SWC,2018-02-05,12,University of Oslo,NO
 2018-02-05-ttt-online,"TTT,online",2018-02-05,24,Software Carpentry,W3
@@ -1450,10 +1451,11 @@ slug,tag_name,start_date,attendance,host_name,country
 2018-03-20-UFDataSymposium,DC,2018-03-20,21,University of Florida,US
 2018-03-20-genentech,DC,2018-03-20,37,Genentech,US
 2018-03-20-gpn,SWC,2018-03-20,,Great Plains Network,US
+2018-03-20-online,DC,2018-03-20,4,Talarify,ZA
 2018-03-20-ttt-online,"TTT,online",2018-03-20,11,Software Carpentry,W3
 2018-03-22-csumb,"SWC,unresponsive",2018-03-22,,California State University Monterey Bay,US
 2018-03-22-nasa,SWC,2018-03-22,19,NASA (National Aeronautics and Space Administration),US
-2018-03-22-ttt-westbigdatahub,TTT,2018-03-22,15,West Big Data Hub,US
+2018-03-22-ttt-westbigdatahub,TTT,2018-03-22,19,West Big Data Hub,US
 2018-03-26-DC-HU,DC,2018-03-26,,Hawassa University,ET
 2018-03-26-ttt-davis,TTT,2018-03-26,24,Software Carpentry,US
 2018-03-26-ucriverside,SWC,2018-03-26,10,"University of California, Riverside",US
